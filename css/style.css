@@ -10,3 +10,13 @@ body {
     font-size: 14px;
   }
   
+  .logo-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .logo {
+    width: 400px;
+    height: 400px;
+  }
+  
